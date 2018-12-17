@@ -1,0 +1,42 @@
+body {background-color: black;}
+img {
+    display: block;
+    margin-bottom: 300px;
+    margin-right: auto;
+    margin-left: auto;
+    width: auto;
+}
+h1  {
+    color:white;
+    text-align: center;
+    font-display: block;
+    font-family: "Helvetica"; 
+    font-style: italic;
+    font-size: 40px;
+    margin-bottom: 150px;
+} 
+p   {
+    color:white;
+    text-align: justify;
+    font-family: "Garamond";
+    font-display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 600px;
+    line-height: 30px;
+    font-size: px;
+       
+}
+
+a:link {
+    color:white;
+    text-decoration: underline;
+    text-decoration-color: yellow;
+    
+}
+
+a:visited {
+    color:white;
+    text-decoration-color: hotpink;
+}
+
